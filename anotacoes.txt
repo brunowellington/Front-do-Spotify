@@ -1,0 +1,2 @@
+//Para instalar o servidor precisa abrir o terminal e digitar: npm i json-server -g
+//Para iniciar o servidor: json-server --watch api-artists/artists.json --port 3000
